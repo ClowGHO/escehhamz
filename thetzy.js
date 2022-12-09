@@ -45,12 +45,12 @@ global.botname = '[⫹⫺ - ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️]' //ubah ja
 global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882110909971']
-global.premium = ['62882110909971']
-global.packname = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ϟ'
-global.ownerr = ['ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️']
+global.owner = ['62895364406642','6289668232568'] // ubah aja pake nomor lu
+global.premium = ['62895364406642','6289668232568'] // ubah aja pake nomor lu
+global.packname = 'Kay'
+global.ownerr = ['kay','ibal']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
